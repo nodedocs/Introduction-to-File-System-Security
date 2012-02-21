@@ -4,5 +4,9 @@
   "date": "Sa 10. Sep 17:46:00 CEST 2011",
   "tags": ["filesystem", "security"],
   "authors": [{"name":"Jann Horn"}],
-  "difficulty": 3
+  "difficulty": 6,
+  "categories": [
+    ["Security"],
+    ["File System"]
+  ]
 }
