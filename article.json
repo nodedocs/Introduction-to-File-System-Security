@@ -3,7 +3,7 @@
   "description": "How can I secure my code?",
   "date": "Sa 10. Sep 17:46:00 CEST 2011",
   "tags": ["filesystem", "security"],
-  "authors": [{"name":"Jann Horn"}],
+  "authors": [{"name":"Jann Horn", "url": "https://github.com/thejh"}],
   "difficulty": 6,
   "categories": [
     ["Security"],
